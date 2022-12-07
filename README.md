@@ -1,4 +1,4 @@
-## 基于ClipCap实现中文Image Caption
+# 基于ClipCap实现中文Image Caption
 
 一个项目用于两个课程设计也挺不错`^_^`
 
