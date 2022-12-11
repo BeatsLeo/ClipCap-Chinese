@@ -16,12 +16,12 @@
 
 ### 效果示例
 
-<img src=".\ClipCap\test_images\football.jpg" alt="football" style="zoom: 50%;float:left;" />
+<img src=".\ClipCap\test_images\football.jpg" alt="football" width="400" height="300" style="float:left;" />
 
-“两个人的旁边有一个双臂张开的男人跑在足球场上。”
-“两个穿着运动装的男人在运动场上庆祝。”
-“三个人的旁边有一个双手握拳的男人奔跑在球场上。”
-“两个人的旁边有一个双手握拳的运动员在球场上奔跑。”
+“两个人的旁边有一个双臂张开的男人跑在足球场上。”<br>
+“两个穿着运动装的男人在运动场上庆祝。”<br>
+“三个人的旁边有一个双手握拳的男人奔跑在球场上。”<br>
+“两个人的旁边有一个双手握拳的运动员在球场上奔跑。”<br>
 “两个人旁有一个抬着右手的男人走在绿茵茵的球场上。”
 
 <br>
