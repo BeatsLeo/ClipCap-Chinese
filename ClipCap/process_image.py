@@ -56,4 +56,5 @@ if __name__ == '__main__':
     feature_extractor = CLIPFeatureExtractor.from_pretrained("openai/clip-vit-large-patch14")
     vision_model = CLIPVisionModel.from_pretrained("openai/clip-vit-large-patch14").to(device)
 
-    data = process_image(root, './test_emb.pt', feature_extractor, vision_model)
+    data = process_image(root, './feature_emb.pt', feature_extractor, vision_model)
+    train_test_split('./feature_emb.pt', 0.3, './')
